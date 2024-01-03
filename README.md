@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/SQLite-003B57?&logo=sqlite&logoColor=white"/>
   <h3>ETC</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white"/>-->
 </div>
 
 <!--
