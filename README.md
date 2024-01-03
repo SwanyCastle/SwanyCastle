@@ -33,8 +33,10 @@
   # Github Stats
 
   <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=tokyonight"/>-->
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanyCastle&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanyCastle&theme=nord_bright)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swanycastle&theme=tokyonight&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanycastle&theme=tokyonight)  
   
   <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwanyCastle%2Fhit-counter&count_bg=%233D6EC8&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
