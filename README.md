@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeungHwan%20Kwak&fontSize=50&animation=fadeIn&rotate=+20&fontAlign=73&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeungHwan%20Kwak&fontSize=50&animation=fadeIn&fontAlign=73&fontAlignY=50" />
 
 <div align=cneter>
   <h2>Portfolio & Blog</h2>
