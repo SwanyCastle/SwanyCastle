@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white"/>
   <h3>Data Base</h3>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?&logo=sqlite&logoColor=white"/>
   <h3>ETC</h3>
 </div>
 
