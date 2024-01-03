@@ -1,5 +1,5 @@
 <div align=cneter>
-  [![Blog Badge]](https://velog.io/@hwanseung/posts)
+  [![Blog Badge](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@hwanseung/posts)
 </div>
 
 <!--
