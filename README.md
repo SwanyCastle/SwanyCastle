@@ -1,13 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduction&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Well%20Come!!!&fontSize=90" />
 
 <div align=cneter>
-  <h1>Portfolio & Blog</h1>
-  
-   <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
-
-  <h1>Tech Stacks</h1>
-
-  
+  <h2>Portfolio & Blog</h2>
+  <a href="[클릭시 이동할 링크](https://velog.io/@hwanseung/posts)" target="_blank"><img src="https://img.shields.io/badge/hwanseung.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <h2>Tech Stacks</h2>
+  <h3>Language</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/>
+  <h3>Fram Works</h3>
+    <img src="https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white"/>
+  <h3>Data Base</h3>
+  <h3>ETC</h3>
 </div>
 
 <!--
