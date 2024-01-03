@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeungHwan%20Kwak&fontSize=50&animation=fadeIn&rotate=+20&fontAlign=73&fontAlignY=35" />
+
 <div align=cneter>
   <h2>Portfolio & Blog</h2>
   <a href="https://velog.io/@hwanseung/posts" target="_blank"><img src="https://img.shields.io/badge/hwanseung.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
