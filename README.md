@@ -2,7 +2,7 @@
 
 <div align=cneter>
   <h2>Portfolio & Blog</h2>
-  <a href="[클릭시 이동할 링크](https://velog.io/@hwanseung/posts)" target="_blank"><img src="https://img.shields.io/badge/hwanseung.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@hwanseung/posts" target="_blank"><img src="https://img.shields.io/badge/hwanseung.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <h2>Tech Stacks</h2>
   <h3>Language</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/>
