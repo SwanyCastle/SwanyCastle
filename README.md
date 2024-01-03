@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Well%20Come!!!&fontSize=90" />
-
 <div align=cneter>
   <h2>Portfolio & Blog</h2>
   <a href="https://velog.io/@hwanseung/posts" target="_blank"><img src="https://img.shields.io/badge/hwanseung.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
@@ -14,6 +12,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQLite-003B57?&logo=sqlite&logoColor=white"/>
   <h3>ETC</h3>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white"/>
 </div>
 
 <!--
