@@ -31,12 +31,11 @@
   <!--<img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white"/>-->
   
   # Github Stats
-  [![SwanyCastle's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanycastle&show_icons=true&theme=tokyonight)](https://github.com/swanycastle/github-readme-stats)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swanycastle&theme=tokyonight&exclude=ts)
-  
-  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swanycastle&theme=tokyonight)-->
 
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanycastle)](https://github.com/swanycastle/github-readme-stats)-->    
+  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=tokyonight"/>-->
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanycastle&theme=tokyonight)  
   
   <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwanyCastle%2Fhit-counter&count_bg=%233D6EC8&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 </div>
