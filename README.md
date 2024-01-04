@@ -34,7 +34,7 @@
 
   <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=tokyonight"/>-->
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanyCastle&theme=tokyonight)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanyCastle&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=nord_bright)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swanycastle&theme=tokyonight&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanycastle&theme=tokyonight)  
