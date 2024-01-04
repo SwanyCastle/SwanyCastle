@@ -36,6 +36,10 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanyCastle&theme=tokyonight)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swanycastle&theme=nord_bright)
 
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swanycastle&theme=tokyonight&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  </a>
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swanycastle&theme=tokyonight&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanycastle&theme=tokyonight)  
   
