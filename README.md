@@ -40,9 +40,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=swanycastle&theme=tokyonight&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swanycastle&theme=tokyonight)  
   -->
-  <a href="https://github.com/SwanyCastle/github-profile-summary-cards/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/SwanyCastle/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41">
-  </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwanyCastle&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>    
