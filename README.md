@@ -1,5 +1,7 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=SeungHwan%20Kwak&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlign=73&fontAlignY=50" />
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=SeungHwan%20Kwak&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlign=73&fontAlignY=50" />
+  </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white"/>
@@ -17,7 +19,6 @@
     </a>
   </p>
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanyCastle&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-</p>
-  <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwanyCastle%2Fhit-counter&count_bg=%233D6EC8&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanyCastle&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  </p>
 </div>
