@@ -21,6 +21,6 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwanyCastle&theme=tokyo-night&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
   </p>
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
